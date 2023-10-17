@@ -341,16 +341,6 @@ h6 {
     .about_box {
         margin-bottom: 20%;
     }
-
-
-
-}
-
-@media (max-width: 1150px) and (orientation: landscape) {
-
-    footer {
-        position: relative;
-    }
 }
 
 @media only screen and (min-width: 2881px) {
@@ -359,5 +349,4 @@ h6 {
         background: url("images/Background.png");
         background-size: cover;
     }
-
 }
