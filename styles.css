@@ -156,7 +156,8 @@ nav ul li a.active {
 }
 
 #header h1 {
-    color: #FFFFFF;
+    color: #FF9700;
+
 }
 
 #header h2 {
@@ -175,12 +176,14 @@ nav ul li a.active {
 }
 
 .titulo_historiales {
-    padding: 8px;
+    padding: 12px;
+    font-size: small;
     text-align: center;
-    color: #FFFFFF;
-    font-family: monospace, "Verdana", serif;
+    color: #FF9700;
+    font-family: monospace, "Helvetica";
     font-weight: bolder;
     opacity: 100%;
+    letter-spacing: 0.10em;
 }
 
 .stats__container {
@@ -236,7 +239,7 @@ nav ul li a.active {
     display: inline-flex;
     list-style: none;
     width: 150%;
-    height: 280px;
+    height: 340px;
     overflow-y: hidden;
     overflow-x: scroll;
     /* margin-left: 10%; */
@@ -311,7 +314,7 @@ h6 {
         display: inline-flex;
         list-style: none;
         width: 600px;
-        height: 280px;
+        height: 340px;
         overflow-y: hidden;
         overflow-x: scroll;
     }

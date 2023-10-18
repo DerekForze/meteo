@@ -107,3 +107,11 @@ Reuniones 2do Cuatrimestre 2022:
 17/10/23
   - Se alineó el texto de la columna que indica qué es cada dato con las columnas de los datos.
   - Se necesita poner los datos "time" y "dew point" en renglones aparte para facilitar la correcta visualización de los datos.
+
+18/10/23
+  - Acomodamos los archivos de las estaciones (time y dew point) para que pase los datos bien ordenados uno por uno por separado.
+  - Se ajustó la altura del 'slider_container' para que el slider no pise el texto de cada columna.
+  - Se cambió el color de la letra de los títulos de los historiales al mismo naranja del logo de Meteo.
+  - Los cambios en la tabla se hicieron tanto para el modo escritorio como el mobile.
+  - Se arreglaron los footer que estaban fallando nuevamente.
+  - Queda pendiente acomodar la alineacion de las columnas de datos con la de la izquierda.
