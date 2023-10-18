@@ -115,3 +115,5 @@ Reuniones 2do Cuatrimestre 2022:
   - Los cambios en la tabla se hicieron tanto para el modo escritorio como el mobile.
   - Se arreglaron los footer que estaban fallando nuevamente.
   - Queda pendiente acomodar la alineacion de las columnas de datos con la de la izquierda.
+  ...
+  - Arreglado el footer para la orientación horizontal en teléfonos móviles.

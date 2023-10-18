@@ -340,9 +340,18 @@ h6 {
 
 }
 
-@media (max-width: 1150px) and (orientation: portrait) {
+@media (max-width: 1150px) and (orientation: landscape) {
     .about_box {
         margin-bottom: 20%;
+    }
+    .footer_general {
+        background-color: rgba(21, 21, 21, 0.35);
+        text-align: center;
+        position: static;
+        margin-top: 25px;
+        bottom: 0;
+        width: 100%;
+        border-top: 2px solid #eb2341;
     }
 }
 
@@ -351,5 +360,6 @@ h6 {
 
         background: url("images/Background.png");
         background-size: cover;
+        min-height: 100vh;
     }
 }
