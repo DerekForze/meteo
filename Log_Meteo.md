@@ -117,3 +117,6 @@ Reuniones 2do Cuatrimestre 2022:
   - Queda pendiente acomodar la alineacion de las columnas de datos con la de la izquierda.
   ...
   - Arreglado el footer para la orientación horizontal en teléfonos móviles.
+
+19/10/23
+  - Configurado el margen del body del stations_style.css en 13px para que se alineen bien los renglones de la tabla.
