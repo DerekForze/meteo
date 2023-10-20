@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------
 ------------------------------ Meteo --------------------------------------
 
-
 Versión posterior a la 2.0 para el servicio de meteorología "Meteo" correspondiente a la ciudad de San Carlos de Bariloche
 
 Añade un slider a la tabla de datos para agregar estaciones en el futuro.

@@ -17,7 +17,7 @@ body {
 .footer_proyecto {
     background-color: rgba(21, 21, 21, 0.35);
     text-align: center;
-    /* position: fixed; */
+    position: static;
     margin-top: 25px;
     bottom: 0;
     width: 100%;
@@ -358,7 +358,7 @@ h6 {
         color: #FFFFFF;
         font-family: "Verdana";
         font-size: 8pt;
-        position: bottom;
+        position: static;
         bottom: 0;
     }
 }
