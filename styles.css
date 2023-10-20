@@ -353,6 +353,14 @@ h6 {
         width: 100%;
         border-top: 2px solid #eb2341;
     }
+    .footer_proyecto {
+        padding-bottom: 25px;
+        color: #FFFFFF;
+        font-family: "Verdana";
+        font-size: 8pt;
+        position: bottom;
+        bottom: 0;
+    }
 }
 
 @media only screen and (min-width: 2881px) {
