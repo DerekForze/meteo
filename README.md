@@ -1,4 +1,5 @@
----------------- Meteo - v 2.1 ---------------
+---------------------------------------------------------------------------
+------------------------------ Meteo --------------------------------------
 
 
 Versión posterior a la 2.0 para el servicio de meteorología "Meteo" correspondiente a la ciudad de San Carlos de Bariloche
