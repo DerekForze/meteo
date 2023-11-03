@@ -120,3 +120,4 @@ Reuniones 2do Cuatrimestre 2022:
 
 19/10/23
   - Configurado el margen del body del stations_style.css en 13px para que se alineen bien los renglones de la tabla.
+  - Se agregó un contador de visitas en el index principal.
